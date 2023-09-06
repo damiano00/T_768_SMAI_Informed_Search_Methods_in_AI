@@ -2,6 +2,6 @@
 
 @authors:
   - Filippo Lampa
-    @filippo-lampa 
+    @<a href="https://github.com/filippo-lampa">Filippo Lampa</a></h3> 
   - Damiano Pasquini
-    @damiano00
+    @<a href="https://github.com/damiano00">Damiano Pasquini</a></h3> 
