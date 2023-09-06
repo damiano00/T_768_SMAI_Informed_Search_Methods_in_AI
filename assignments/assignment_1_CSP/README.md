@@ -1,7 +1,7 @@
 # Assignment_1_Constraint_Satisfaction_Problem
 
 @authors:
-  - name: Filippo Lampa
+  - Filippo Lampa
     @filippo-lampa 
-  - name: Damiano Pasquini
+  - Damiano Pasquini
     @damiano00
