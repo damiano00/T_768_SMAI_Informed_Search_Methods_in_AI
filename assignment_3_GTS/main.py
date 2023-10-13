@@ -1,10 +1,6 @@
 import argparse
 import game.breakthrough as breakthrough
-import agents.human_agent as human_agent
-import agents.random_agent as random_agent
-import agents.greedy_agent as greedy_agent
 import agents.mm_agent as mm_agent
-import agents.ab_agent as ab_agent
 import agents.mcts_agent as mcts_agent
 import misc.play as play
 from timeit import default_timer as timer
