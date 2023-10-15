@@ -4,3 +4,6 @@
 [submodule "assignment_1_CSP"]
 	path = assignment_1_CSP
 	url = https://github.com/filippo-lampa/ISMAI_HW1.git
+[submodule "assignment_3_GTS"]
+	path = assignment_3_GTS
+	url = https://github.com/damiano00/ISMAI_assignment_3_GTS.git
