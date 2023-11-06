@@ -7,3 +7,6 @@
 [submodule "assignment_3_GTS"]
 	path = assignment_3_GTS
 	url = https://github.com/damiano00/ISMAI_assignment_3_GTS.git
+[submodule "assignment_4_alphazero"]
+	path = assignment_4_alphazero
+	url = https://github.com/HarlockOfficial/T-768-SMAI-Assignment-4-AlphaZero.git
